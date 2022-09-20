@@ -425,7 +425,7 @@ All :ref:`commands <minio-mc-commands>` support the following global options:
 
 .. option:: --quiet
 
-   Suppresses console output. 
+   Suppresses progress bar output. 
 
 .. option:: --insecure
 
